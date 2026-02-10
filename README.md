@@ -10,7 +10,7 @@ Labels:
 - **Wrong**
 - **Incomplete**
 
-To improve reliability, DPCA uses a **two-pass cross-check**:
+To improve reliability,We uses a **two-pass cross-check**:
 1. **Classifier pass** proposes a label.
 2. **Verifier pass** validates the proposed label and either agrees or corrects it.
 
